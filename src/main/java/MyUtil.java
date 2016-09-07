@@ -1,4 +1,4 @@
 
 public class MyUtil {
-    public static void doUtilWork(){};
+    public static void doSomeUtilWork(){};
 }
