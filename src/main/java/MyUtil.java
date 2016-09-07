@@ -1,5 +1,5 @@
 
 public class MyUtil {
     public static void validateSomething(){};
-    public static void doUtilWork(){};
+    public static void doSomeUtilWork(){};
 }
