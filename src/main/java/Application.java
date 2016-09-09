@@ -9,5 +9,5 @@ public class Application {
     static void doSomeStuff2(){
         System.out.print("Hello");
     }
-    static void doSomeStuff3(){}
+    static void doSomeStuff3(){System.out.print("Mike");}
 }
